@@ -10,3 +10,4 @@ Pemissions the app requires:
     7.	android.permission.FOREGROUND_SERVICE – Allows app to run when you turn off the screen
     8.	android.permission.SYSTEM_ALERT_WINDOW – Allows app to alert you when sessions are completed.
 If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
