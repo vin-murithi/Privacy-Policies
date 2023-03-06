@@ -1,0 +1,12 @@
+Welcome to the Zeit productivity app for android.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Pemissions the app requires:
+    1.	android.permission.ACCESS_NOTIFICATION_POLICY – Allows prevention of distracting notifications from other apps during sessions time.
+    2.	android.permission.RECEIVE_BOOT_COMPLETED  - Allows phone to know when restarted to reschedule your task reminders.
+    3.	android.permission.WAKE_LOCK – Allows the app to keep the screen on if you set it to do so.
+    4.	android.permission.VIBRATE – For notifying user when certain events occur in the app
+    5.	android.permission.USE_FULL_SCREEN_INTENT – Allow seeing progress of a session without having to unlock phone
+    6.	android.permission.POST_NOTIFICATIONS – Allows a notification with updated session progress
+    7.	android.permission.FOREGROUND_SERVICE – Allows app to run when you turn off the screen
+    8.	android.permission.SYSTEM_ALERT_WINDOW – Allows app to alert you when sessions are completed.
+If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
