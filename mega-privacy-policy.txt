@@ -1,1 +1,21 @@
 
+Welcome to the Mega app for android.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Pemissions the app requires:
+
+    1. android.permission.WRITE_EXTERNAL_STORAGE: This permission allows an app to write to external storage. It is used when an app needs to save data or files to the device’s external storage.
+    2. android.permission.ACCESS_NETWORK_STATE: This permission allows an app to access information about networks. It is used when an app needs to check the state of network connectivity, such as whether the device is connected to a network or not.
+    3. android.permission.INTERNET: This permission allows an app to open network sockets and use the internet. It is used when an app needs to connect to the internet to send or receive data.
+    
+If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
+
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2023-03-06
+
+Contact Us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at zuri.zaidi.apps@gmail.com. 
